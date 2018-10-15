@@ -6,6 +6,12 @@ About: Student and HackerEarth CA Likes learning.<br/>
 Programming Language: c++,Java,Android, JS, HTML, CSS<br/>
 Email: kanishkgupta1234@gmail.com<br/>
 
+Name: [SACHIN RUNGTA](https://github.com/SAC6120)<br/>
+Place: INDIA<br/>
+About: Student and SPORT PROGRAMMER.<br/>
+Programming Language: c++,Java,Android, JS, HTML, CSS<br/>
+Email: f20171576@hyderabad.bits-pilani.ac.inm<br/>
+
 Name: [Aman Singh](https://github.com/AMANSINGH1998)<br/>
 Place: INDIA<br/>
 About: Student and Web developer! Likes AI.<br/>
